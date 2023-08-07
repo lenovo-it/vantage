@@ -1,0 +1,9 @@
+[package]
+name = "vantage"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+description = "A placeholder."
+homepage = "https://github.com/lenovo-it/vantage"
+repository = "https://github.com/lenovo-it/vantage"
+readme = "README.md"

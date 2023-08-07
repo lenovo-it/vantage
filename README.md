@@ -1,2 +1,3 @@
-# vantage
+# Vantage
+
 A placeholder.
